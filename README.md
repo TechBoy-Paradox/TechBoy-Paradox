@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 Always excited to take on crazy and creative **Game Development Ideas!**
-- ⚡ Currently working on some personal and freelance projects on **Unity & Unreal**
+- ⚡ Currently working on some personal and freelance projects on **Unreal**
 - 👻 How to reach me **Nah you can't! ....Kidding 😆**
 - 📫 Let's talk Via the **Contact Section!**
 - 👨‍💻 All of my projects are available at [TechBoy-Paradox](https://github.com/TechBoy-Paradox)

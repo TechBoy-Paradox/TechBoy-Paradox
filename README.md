@@ -1,8 +1,9 @@
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1tdGMyaGlibmtrZjc0cDNnMDBkN3E2b2xybHBtZGJsZHVzajRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"> </p>
+<p align="center"> <img src="https://github.com/TechBoy-Paradox/TechBoy-Paradox/blob/main/Image/Base.gif"> </p>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B1D7F7&width=370&lines=Hi%2C+I'm+TechBoy%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B1D7F7&width=370&lines=Hi%2C+I'm+Piyush%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate game programmer from India</h3>
 
+<picture> <img align="right" src="https://github.com/TechBoy-Paradox/TechBoy-Paradox/blob/main/Image/Luffy.png" width = 300px></picture>
 
 **ABOUT ME**
 <p align="left">

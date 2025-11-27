@@ -16,8 +16,7 @@
 - 📫 Let's talk Via the **Contact Section!**
 - 👨‍💻 All of my projects are available at [TechBoy-Paradox](https://github.com/TechBoy-Paradox)
 - 🔭 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/184fXdxGw1bEvRQXW2-ZDyDxdPvHKahbb/view?usp=sharing">Resume</a>
-- 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) & [itch.io](https://itch.io/profile/endline-studio).
- Discord: [emperor_hunter07](https://discord.com)
+- 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) & [itch.io](https://itch.io/profile/endline-studio)
 
 
 <h3 align="left">Languages and Tools:</h3>

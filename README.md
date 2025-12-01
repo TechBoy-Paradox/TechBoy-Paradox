@@ -3,7 +3,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B1D7F7&width=370&lines=Hi%2C+I'm+Piyush%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate game programmer from India</h3>
 
-<picture> <img align="right" src="https://github.com/TechBoy-Paradox/TechBoy-Paradox/blob/main/Image/Luffy.png" width = 280px></picture>
 
 **ABOUT ME**
 <p align="left">
@@ -14,10 +13,10 @@
 - ⚡ Currently working on some personal and freelance projects on **Unreal**
 - 👻 How to reach me **Nah you can't! ....Kidding 😆**
 - 📫 Let's talk Via the **Contact Section!**
+<picture> <img align="right" src="https://rebelbots.com/images/spiders-p-800.png" width = 500px></picture>
 - 👨‍💻 All of my projects are available at [TechBoy-Paradox](https://github.com/TechBoy-Paradox)
 - 🔭 Find my Resume on : <a target="_blank" href="https://drive.google.com/file/d/184fXdxGw1bEvRQXW2-ZDyDxdPvHKahbb/view?usp=sharing">Resume</a>
 - 🎮 Live games are available at [PlayStore](https://play.google.com/store/apps/dev?id=7533958671773408205) & [itch.io](https://itch.io/profile/endline-studio)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
